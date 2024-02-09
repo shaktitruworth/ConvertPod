@@ -1,0 +1,6 @@
+framework module ConvertPod {
+  umbrella header "ConvertPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

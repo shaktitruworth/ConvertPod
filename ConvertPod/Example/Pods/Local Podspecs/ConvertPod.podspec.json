@@ -1,0 +1,22 @@
+{
+  "name": "ConvertPod",
+  "version": "0.1.0",
+  "summary": "A short description of ConvertPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shakti.rathore/ConvertPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shakti.rathore": "shakti.rathore@truworthwellness.com"
+  },
+  "source": {
+    "git": "https://github.com/shakti.rathore/ConvertPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ConvertPod/Classes/**/*"
+}
